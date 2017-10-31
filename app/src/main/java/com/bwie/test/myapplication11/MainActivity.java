@@ -10,7 +10,8 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //第一行
-
-
+       
+        //第二行
+ 
     }
 }
